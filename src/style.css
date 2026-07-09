@@ -37,9 +37,11 @@
         }
         h2{
             color: maroon;
+            font-family: cursive;
         }
         h3{
             color:darkgoldenrod;
+            font-family:cursive;
         }
         .everything{
             margin-left: 50px;
@@ -55,6 +57,9 @@
         h1{
             text-align: center;
             font-size: 50px;
+            color: darkblue;
+            font-family: cursive;
+            background-color:darkkhaki;
         }
         button:hover{
             color: coral;
