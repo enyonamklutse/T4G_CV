@@ -1,4 +1,4 @@
- button{
+ button{  /* STYLING BEGINS HERE*/
             color:black;
             background-color: coral;
             width: 100px;
@@ -7,16 +7,25 @@
             cursor: pointer;
             border: 3px solid black;
             margin: 50px 50px 50px;
+        } 
+        button:hover{
+            color: coral;
+            background-color:black;
         }
-        .profile{
+        /* STYLING ENDS HERE*/
+
+
+        .profile{  /* STYLING FOR PROFILE PICTURE*/
             border-radius: 500px;
             box-shadow: 10px 10px 10px black;
             border: 2px solid black;
             margin: 50px 50px 50px;
             width: 250px;
             height: 250px;
-        }
-        div img{
+        }  /* ENDS HERE*/
+
+
+        div img{ /* STYLING FOR IMAGES PROJECT*/
             width: 300px;
             height: 300px;
             border: 10px solid gray;
@@ -24,45 +33,56 @@
             margin: 20px;
             border-radius: 300px;
             box-shadow: 10px 10px 10px grey;
-        }
-        .lists{
+        }   /* ENDS HERE*/
+
+
+        .lists{  /* STYLING FOR LIST OF ITEMS*/
             font-family: cursive;
             text-align: justify;
             overflow-x: hidden;
-        }
-        p{
+        }   /* ENDS HERE*/
+
+
+        p{  /* STYLING FOR PARAGRAPHS*/
             font-family: cursive;
             text-align:justify;
             overflow-x: hidden;
-        }
-        h2{
+        }  /* ENDS HERE*/
+
+
+        h2{  /* STYLING FOR H2*/
             color: maroon;
             font-family: cursive;
-        }
-        h3{
+        }  /* ENDS HERE*/
+
+
+        h3{  /* STYLING FOR H3*/
             color:darkgoldenrod;
             font-family:cursive;
-        }
-        .everything{
+        }  /* ENDS HERE*/
+
+
+        .everything{  /* STYLING FOR THE ENTIRE CV*/
             margin-left: 50px;
             margin-top: 50px;
             margin-bottom: 50px;
             margin-right: 50px;
             overflow-x: hidden;
-        } 
-        div p{
+        }   /* ENDS HERE*/
+
+
+        div p{  /* STYLING FOR CONTACT INFO*/
             display:inline-flex;
             margin: 20px;
-        }
-        h1{
+        }  /* ENDS HERE*/
+
+
+        h1{  /* STYLING FOR H1*/
             text-align: center;
             font-size: 50px;
             color: darkblue;
             font-family: cursive;
             background-color:darkkhaki;
-        }
-        button:hover{
-            color: coral;
-            background-color:black;
-        }    
+        }  /* ENDS HERE*/
+            
         
